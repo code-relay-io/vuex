@@ -1,3 +1,17 @@
+# Task #2
+
+ - clone this fork of the original bug demo where I have guessed at a fix: https://gitlab.com/pestopancake/vuex-demo-bug
+ - run these commands:
+```bash
+npm install
+run npm run serve
+```
+- visit http://localhost:8080/
+ - edit src/views/home.vue
+ - look at the reported bug (lines 8 & 30)
+ - look at my guess at a fix (lines 11 & 33)
+ - suggest why it is / is not a fix
+
 # Task #1
 
 https://github.com/vuejs/vuex/issues/1948
