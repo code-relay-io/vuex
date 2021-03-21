@@ -1,5 +1,6 @@
 # Task #2
 
+ - read https://github.com/vuejs/vuex/issues/1948 to get to know the reported issue
  - clone this fork of the original bug demo where I have guessed at a fix: https://gitlab.com/pestopancake/vuex-demo-bug
  - run these commands:
 ```bash
